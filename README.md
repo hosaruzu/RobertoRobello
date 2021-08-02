@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Artem, 25 y.e.
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and js
 - 📫 How to reach me: https://t.me/hosaruzu
 
 <!---
